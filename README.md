@@ -12,23 +12,7 @@ CPU using MPI (Message Passing Interface).
 
 ---
 
-![](./demos/demo1.webm)
 
 
----
-
-![](./demos/demo2.webm)
-
----
-
-![](./demos/demo3.webm)
-
-
----
-
-![](./demos/demo4.webm)
-
----
-
-![](./demos/demo5.webm)
+https://github.com/user-attachments/assets/1801163c-f820-43e3-ad2c-76419930cf5c
 
